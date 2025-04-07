@@ -1,2 +1,10 @@
 git init
 ls -la
+open .git
+git add * -- and watch folder
+git log --oneline
+git remote show origin -- nada
+Now publish with VSCode
+git remote show origin  -- aha
+git status
+git  branch
