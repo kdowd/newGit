@@ -18,6 +18,7 @@ git add .
 git commit -m "blah"
 git status
 git push
+git clone
 git log --oneline
 
 Q. Whats is a commit hash?
