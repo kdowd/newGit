@@ -43,6 +43,7 @@ git push --force ( will mess up your history)
 +++++++++++++++++++++++++++++++++++
 Create a safe space
 
-git branch
+git branch -- where is this branch
+git switch
 
 
