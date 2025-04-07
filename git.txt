@@ -8,3 +8,7 @@ Now publish with VSCode
 git remote show origin  -- aha
 git status
 git  branch
+git checkout 
+
+
+git revert 
