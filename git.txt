@@ -1,14 +1,48 @@
+Cameron Mckenzie:
+
+Git Distributed VC with branching:
+
+https://www.youtube.com/watch?v=PIAm-Qk7rhE&list=PL_RrEj88onS8XTeD0JDpNaL6kBUSt1ZJ7&index=3
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+Starter
 git init
 ls -la
 open .git
 git add * -- and watch folder
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+The basics
+git add .
+git commit -m "blah"
+git status
+git push
 git log --oneline
+
+Q. Whats is a commit hash?
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 git remote show origin -- nada
 Now publish with VSCode
 git remote show origin  -- aha
-git status
-git  branch
-git checkout 
+
+Now push 
+git log --oneline
+Open GitHub and compere commit numbers with local git log
 
 
-git revert  / git revert  --abort
++++++++++++++++++++++++++++++++++
+
+git reset --hard 423423
+git push --force ( will mess up your history)
+
+
++++++++++++++++++++++++++++++++++++
+Create a safe space
+
+git branch
+
+
